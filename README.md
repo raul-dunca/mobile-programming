@@ -1,4 +1,4 @@
-# 📱 Mobile application programming
+# 📲 Mobile application programming
 This Flutter mobile app allows users to either list a pet for adoption or find a pet to adopt.
 
 - Each CRUD operation has its own screen.
